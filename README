@@ -1,0 +1,12 @@
+## Mono
+
+An experiment in mono repo design.
+
+## Tools
+
+- `make`: A build tool forced to live as a task runner.
+- `python`: A scaley, dynamic programming language.
+- `cookiecutter`: A project templating tool.
+- `direnv`: A tool for automatically loading environment variables.
+
+
