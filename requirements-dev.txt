@@ -1,0 +1,2 @@
+cookiecutter==2.1.*
+pre-commit==2.20.*
